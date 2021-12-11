@@ -5,7 +5,9 @@
 
 <img src="stockholm_crop.jpg" alt="stockholm" align="left" width="30%"/>  Dr. Rehavi's research analyzes expert decision-making in medicine, criminal law and employment (hiring, compensation and promotion). 
 
-She is an Associate Professor at the [Vancouver School of Economics](https://economics.ubc.ca) at the [University of British Columbia](https://www.ubc.ca/). Prior to arriving at UBC, she was a Robert Wood Johnson Foundation Scholar in Health Policy Research at the University of Michigan and received her PhD in Economics from the University of California, Berkeley.  Her work has received funding from the Social Sciences and Humanities Research Council of Canada and the U.S. National Institutes of Health.
+She is an Associate Professor at the [Vancouver School of Economics](https://economics.ubc.ca) at the [University of British Columbia](https://www.ubc.ca/). 
+
+Prior to arriving at UBC, she was a Robert Wood Johnson Foundation Scholar in Health Policy Research at the University of Michigan and received her PhD in Economics from the University of California, Berkeley.  Her work has received funding from the Social Sciences and Humanities Research Council of Canada and the U.S. National Institutes of Health.
 
 #### Contact:
 Vancouver School of Econommics, UBC \
