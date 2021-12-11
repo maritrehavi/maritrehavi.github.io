@@ -16,4 +16,4 @@ Vancouver, BC V6T 1L4 \
 CANADA
 
 Email: marit **dot** rehavi **at** ubc **dot** ca \
-Phone: 604-822-5226 (not recommended)
+Phone: 604-822-5226 (email strongly preferred)
