@@ -1,6 +1,6 @@
 # M. MARIT REHAVI                           
 
-[CV]() [Research](https://maritrehavi.github.io/research) [Teaching]()  [Media](https://maritrehavi.github.io/media) 
+[CV]() [Research](https://maritrehavi.github.io/research) [Teaching](https://maritrehavi.github.io/teaching)  [Media](https://maritrehavi.github.io/media) 
 
 
 <img src="stockholm_crop.jpg" alt="stockholm" align="left" width="30%"/>  Dr. Rehavi's research analyzes expert decision-making in medicine, criminal law and employment (hiring, compensation and promotion). 
