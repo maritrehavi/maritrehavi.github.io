@@ -1,4 +1,4 @@
-# Teaching
+# Current Courses
 Note: Course Websites are available to registered students at: www.canvas.ubc.ca
 
 ## Graduate Courses
@@ -18,5 +18,5 @@ appropriate application of these methods.
   
 ## Undergraduate Courses
 - **Economics 384** \
-Econ 384 presents an economic perspective on challenges in health finance and health policy.  Topics include models of the consumer-patient, the physician-entrepreneur, and the third-party regulatory and payment agency.  Some topics will involve mathematical analysis.  
-Prerequisites: All of ECON 101 and 102. 
+Econ 384 presents an economic perspective on challenges in health finance and health policy.  Topics include models of the consumer-patient, the physician-entrepreneur, and the third-party regulatory and payment agency.  Some topics will involve mathematical analysis.  Prerequisites: All of ECON 101 and 102. 
+
