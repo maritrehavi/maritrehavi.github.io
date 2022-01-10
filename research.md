@@ -60,5 +60,7 @@ Data Appendix and Supplementary Tables
 (with C. Yang) \
 Despite the fact the prosecutors possess enormous discretion in charging and plea bargaining, very little is known about how the assignment of prosecutors affects case outcomes. Using new data linking federal cases to the entire sequence of prosecutors assigned to each case, we compare outcomes in cases where the same prosecutor handles the case from filing to disposition to cases where due to plausibly exogenous departures from the office, a second prosecutor handles the case between filing and disposition. We find that cases are resolved more favorably to the defendant when a new prosecutor takes over the case. Following a departure, a replacement prosecutor is 30% (6.5 percentage points) more likely to choose to drop at least one charge and 15% (2 percentage points) more likely to choose to drop a charge that carries a mandatory minimum sentence. Defendants with replacement prosecutors are also 7.1% (5.8 percentage points) less likely to be found guilty and 10.4% (7.3 percentage points) less likely to be incarcerated.
 
-
+- "Closing the Gender Pay Gap in the US Federal Service: The Role of New Managers”
+(with N. Fortin and M. Markevych) \
+Using high frequency longitudinal data on US federal employees over their careers, we document the evolution of the gender wage gap from 1990-2014. Using an event study design we find that despite the seemingly deterministic federal pay system, the arrival of a new manager reduces the gender pay disparity and the effect is larger for female managers.  These results are mirrored in a worker survey (FEVS) where female employees’ satisfaction and favorable perceptions of workplace climate are increasing in the share of female managers. 
 
