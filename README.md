@@ -3,7 +3,7 @@
 [CV](https://maritrehavi.github.io/rehavi_summary_cv_2021.pdf) [Research](https://maritrehavi.github.io/research) [Teaching](https://maritrehavi.github.io/teaching)  [Media](https://maritrehavi.github.io/media) 
 
 
-<img src="stockholm_crop.jpg" alt="stockholm" align="left" width="30%"/>  Dr. Rehavi's research analyzes expert decision-making in medicine, criminal law and employment (hiring, compensation and promotion), particularly the exercise of discretion.
+<img src="stockholm_crop.jpg" alt="stockholm" align="left" width="30%"/>  Dr. Rehavi's research analyzes expert decision-making and the exercise of discretion in medicine, criminal law and employment (hiring, compensation and promotion). 
 
 She is an Associate Professor at the [Vancouver School of Economics](https://economics.ubc.ca) at the [University of British Columbia](https://www.ubc.ca/). 
 
